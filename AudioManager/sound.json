@@ -1,0 +1,296 @@
+[
+  {
+    "Id": 1,
+    "KeyName": "1",
+    "Name": "wood_break",
+    "Path": "AudioClip/wood_break"
+  },
+  {
+    "Id": 2,
+    "KeyName": "2",
+    "Name": "Intro",
+    "Path": "AudioClip/Intro"
+  },
+  {
+    "Id": 3,
+    "KeyName": "3",
+    "Name": "Lose",
+    "Path": "AudioClip/Lose"
+  },
+  {
+    "Id": 4,
+    "KeyName": "4",
+    "Name": "MainGame",
+    "Path": "AudioClip/MainGame"
+  },
+  {
+    "Id": 5,
+    "KeyName": "5",
+    "Name": "win",
+    "Path": "AudioClip/win"
+  },
+  {
+    "Id": 6,
+    "KeyName": "6",
+    "Name": "button_click",
+    "Path": "AudioClip/button_click"
+  },
+  {
+    "Id": 7,
+    "KeyName": "7",
+    "Name": "changing_ice",
+    "Path": "AudioClip/changing_ice"
+  },
+  {
+    "Id": 8,
+    "KeyName": "8",
+    "Name": "chestopen",
+    "Path": "AudioClip/chestopen"
+  },
+  {
+    "Id": 9,
+    "KeyName": "9",
+    "Name": "Coins_Several_07",
+    "Path": "AudioClip/Coins_Several_07"
+  },
+  {
+    "Id": 10,
+    "KeyName": "10",
+    "Name": "Coins_Single_00",
+    "Path": "AudioClip/Coins_Single_00"
+  },
+  {
+    "Id": 11,
+    "KeyName": "11",
+    "Name": "Coins_Single_01",
+    "Path": "AudioClip/Coins_Single_01"
+  },
+  {
+    "Id": 12,
+    "KeyName": "12",
+    "Name": "Coins_Single_02",
+    "Path": "AudioClip/Coins_Single_02"
+  },
+  {
+    "Id": 13,
+    "KeyName": "13",
+    "Name": "Coins_Single_03",
+    "Path": "AudioClip/Coins_Single_03"
+  },
+  {
+    "Id": 14,
+    "KeyName": "14",
+    "Name": "Coins_Single_04",
+    "Path": "AudioClip/Coins_Single_04"
+  },
+  {
+    "Id": 15,
+    "KeyName": "15",
+    "Name": "Coins_Single_05",
+    "Path": "AudioClip/Coins_Single_05"
+  },
+  {
+    "Id": 16,
+    "KeyName": "16",
+    "Name": "Coins_Single_06",
+    "Path": "AudioClip/Coins_Single_06"
+  },
+  {
+    "Id": 17,
+    "KeyName": "17",
+    "Name": "Coins_Single_07",
+    "Path": "AudioClip/Coins_Single_07"
+  },
+  {
+    "Id": 18,
+    "KeyName": "18",
+    "Name": "Coins_Single_08",
+    "Path": "AudioClip/Coins_Single_08"
+  },
+  {
+    "Id": 19,
+    "KeyName": "19",
+    "Name": "Coins_Single_09",
+    "Path": "AudioClip/Coins_Single_09"
+  },
+  {
+    "Id": 20,
+    "KeyName": "20",
+    "Name": "Coins_Single_10",
+    "Path": "AudioClip/Coins_Single_10"
+  },
+  {
+    "Id": 21,
+    "KeyName": "21",
+    "Name": "dmg_electric",
+    "Path": "AudioClip/dmg_electric"
+  },
+  {
+    "Id": 22,
+    "KeyName": "22",
+    "Name": "dmg_fall",
+    "Path": "AudioClip/dmg_fall"
+  },
+  {
+    "Id": 23,
+    "KeyName": "23",
+    "Name": "dmg_shoot",
+    "Path": "AudioClip/dmg_shoot"
+  },
+  {
+    "Id": 24,
+    "KeyName": "24",
+    "Name": "dragpin",
+    "Path": "AudioClip/dragpin"
+  },
+  {
+    "Id": 25,
+    "KeyName": "25",
+    "Name": "electric",
+    "Path": "AudioClip/electric"
+  },
+  {
+    "Id": 26,
+    "KeyName": "26",
+    "Name": "enemy_die",
+    "Path": "AudioClip/enemy_die"
+  },
+  {
+    "Id": 27,
+    "KeyName": "27",
+    "Name": "goblindie",
+    "Path": "AudioClip/goblindie"
+  },
+  {
+    "Id": 28,
+    "KeyName": "28",
+    "Name": "goblinslash",
+    "Path": "AudioClip/goblinslash"
+  },
+  {
+    "Id": 29,
+    "KeyName": "29",
+    "Name": "hero_die",
+    "Path": "AudioClip/hero_die"
+  },
+  {
+    "Id": 30,
+    "KeyName": "30",
+    "Name": "hero_take_sword",
+    "Path": "AudioClip/hero_take_sword"
+  },
+  {
+    "Id": 31,
+    "KeyName": "31",
+    "Name": "hero_win",
+    "Path": "AudioClip/hero_win"
+  },
+  {
+    "Id": 32,
+    "KeyName": "32",
+    "Name": "jump_bounce",
+    "Path": "AudioClip/jump_bounce"
+  },
+  {
+    "Id": 33,
+    "KeyName": "33",
+    "Name": "lavaappear",
+    "Path": "AudioClip/lavaappear"
+  },
+  {
+    "Id": 34,
+    "KeyName": "34",
+    "Name": "lavaonwater",
+    "Path": "AudioClip/lavaonwater"
+  },
+  {
+    "Id": 35,
+    "KeyName": "35",
+    "Name": "lavaonwater2",
+    "Path": "AudioClip/lavaonwater2"
+  },
+  {
+    "Id": 36,
+    "KeyName": "36",
+    "Name": "machine",
+    "Path": "AudioClip/machine"
+  },
+  {
+    "Id": 37,
+    "KeyName": "37",
+    "Name": "MoveStickClick",
+    "Path": "AudioClip/MoveStickClick"
+  },
+  {
+    "Id": 38,
+    "KeyName": "38",
+    "Name": "open2",
+    "Path": "AudioClip/open2"
+  },
+  {
+    "Id": 39,
+    "KeyName": "39",
+    "Name": "pinblock",
+    "Path": "AudioClip/pinblock"
+  },
+  {
+    "Id": 40,
+    "KeyName": "40",
+    "Name": "pop1",
+    "Path": "AudioClip/pop1"
+  },
+  {
+    "Id": 41,
+    "KeyName": "41",
+    "Name": "princess1",
+    "Path": "AudioClip/princess1"
+  },
+  {
+    "Id": 42,
+    "KeyName": "42",
+    "Name": "princesshurt1",
+    "Path": "AudioClip/princesshurt1"
+  },
+  {
+    "Id": 43,
+    "KeyName": "43",
+    "Name": "rock1",
+    "Path": "AudioClip/rock1"
+  },
+  {
+    "Id": 44,
+    "KeyName": "44",
+    "Name": "shoot",
+    "Path": "AudioClip/shoot"
+  },
+  {
+    "Id": 45,
+    "KeyName": "45",
+    "Name": "water_drop",
+    "Path": "AudioClip/water_drop"
+  },
+  {
+    "Id": 46,
+    "KeyName": "46",
+    "Name": "wind",
+    "Path": "AudioClip/wind"
+  },
+  {
+    "Id": 47,
+    "KeyName": "47",
+    "Name": "bat_die",
+    "Path": "AudioClip/bat_die"
+  },
+  {
+    "Id": 48,
+    "KeyName": "48",
+    "Name": "scorpion_die",
+    "Path": "AudioClip/scorpion_die"
+  },
+  {
+    "Id": 49,
+    "KeyName": "49",
+    "Name": "tentacle_die",
+    "Path": "AudioClip/tentacle_die"
+  }
+]
