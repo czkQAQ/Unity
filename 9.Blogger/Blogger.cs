@@ -30,7 +30,7 @@ public class Blogger : MonoBehaviour
 
     private void Upload()
     {
-        if(articleName.text != null)
+        if(articleName.text != string.Empty)
         {
             Debug.Log("博主上传了文章" + articleName.text);
             subscribe(articleName.text);
