@@ -13,7 +13,7 @@ using UnityEngine;
     当第一次访问Instance时，为instance实例化，就是很懒（其他人访问时才初始化），所以叫懒汉式。
     不支持多线程。
  */
-public class SingletonPattern : MonoBehaviour
+public class SingletonPattern
 {
     private static SingletonPattern instance;
     public static SingletonPattern Instance
@@ -40,7 +40,7 @@ public class SingletonPattern : MonoBehaviour
     当类被加载时就初始化，所以叫饿汉式。
     支持多线程，但类加载时就初始化，浪费内存。
  */
-public class SingletonPattern2 : MonoBehaviour
+public class SingletonPattern2
 {
     private static SingletonPattern2 instance = new SingletonPattern2();
     public static SingletonPattern2 Instance
