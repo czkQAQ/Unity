@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+//¿œ Û≥ÈœÛ¿‡
+public abstract class Mouse
+{
+    protected string name;
+    public abstract void Run();
+}
